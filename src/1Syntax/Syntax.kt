@@ -1,3 +1,5 @@
+package `1Syntax`
+
 fun main(args: Array<String>){
     //This is comment коментарии
 
